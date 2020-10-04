@@ -1,0 +1,321 @@
+body {
+    margin: 10px;
+}
+nav {
+    display: flex;
+}
+nav img {
+    margin-top: 6px;
+    max-width: 50px;
+    max-height: 50px;
+}
+nav h1 {
+    padding-left: 25px;
+    margin-top: 10px;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.headline {
+    margin-left: 0px;
+    max-width: 1315px;
+}
+.base {
+    margin-top: -18px;
+    max-height: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin-left: 35px;
+}
+.baseline {
+    display: flex;
+}
+.baseline .highlength {
+    max-height: 600px;
+    height:380px;
+}
+.branch1 {
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 980px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #e5ecfc;
+}
+.branch1 h4 {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: 'Ramabhadra', sans-serif;
+    position: relative;
+    color: #9e9e9e;
+}
+.line hr {
+    margin-top: 54px;
+    max-width: 30px;
+    width: 30px;
+}
+.circle {
+    margin-top: 49px;
+    width: 10px;
+    height: 10px;
+    border: .5px solid orange;
+    background-color: orange;
+    border-radius: 30px;
+}
+.backhr {
+    margin-left: 30px;
+    margin-top: 35px;
+    max-height: 38px;
+}
+.base img {
+    margin-left: 30px;
+    margin-top: 40px;
+    height: 27px;
+}
+.nextline {
+    display: flex;
+    flex-direction: column;
+    margin-top: -320px;
+    margin-left: 10px;
+}
+.nextline .first {
+    margin-left: 28px;
+    margin-top: -5px;
+    width: .2px;
+    height: 50px;
+}
+.nextline .second {
+    margin-top: -7.45px;
+    margin-left: 28px;
+    width: 15px;
+}
+.nextline img {
+    width: 20px;
+    height: 20px;
+    margin-top: -19.75px;
+    margin-left: 40px;
+}
+.nextline h4 {
+    margin-top: -25px;
+    margin-left: 115px;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline .new {
+    height: 50px;
+    margin-top: -60px;
+    margin-left: 155px;
+    background-color: white;
+    border-radius: 12px;
+    border: solid 1px #909090;
+    color: #909090;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    width: 270px;
+    position: relative;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline .new1 {
+    height: 50px;
+    margin-top: -49px;
+    margin-left: 465px;
+    background-color: white;
+    border-radius: 12px;
+    border: solid 1px #909090;
+    color: black;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    width: 260px;
+    position: relative;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline .new2 {
+    height: 50px;
+    margin-top: -49px;
+    margin-left: 765px;
+    background-color: white;
+    border-radius: 12px;
+    border: solid 1px #909090;
+    color: black;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    width: 260px;
+    position: relative;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline .backhr {
+    margin-left: 1057px;
+    margin-top: -45px;
+    max-height: 38px;
+    width: .2px;
+    height: 38px;
+}
+.nextline a {
+    margin-left: 1050px;
+    margin-top: -31px;
+}
+.disc {
+    margin-top: -15px;
+    margin-left: 45px;
+    width: 10px;
+    height: 10px;
+    border: solid .5px #909090;
+    border-radius: 30px;
+}
+.thirdline {
+    font-family: 'Ramabhadra', sans-serif;
+    font-weight: bold;
+    margin-left: 95px;
+}
+.thirdline input {
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border: solid 1px #909090;
+    color: #909090;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    width: 870px;
+    position: relative;
+    font-family: 'Ramabhadra', sans-serif;
+    text-align: left;
+}
+.divider {
+    margin-left: 90px;
+    margin-top: 250px;
+    max-width: 1230px;
+}
+.divider1 {
+    margin-left: 90px;
+    margin-top: 340px;
+    max-width: 1230px;
+}
+.nextline1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: -9px;
+    margin-left: 10px;
+}
+.nextline1 .first {
+    margin-left: 28px;
+    margin-top: -5px;
+    width: .2px;
+    height: 60px;
+}
+.nextline1 .second {
+    margin-top: -7.45px;
+    margin-left: 28px;
+    width: 25px;
+}
+.nextline1 img {
+    width: 20px;
+    height: 20px;
+    margin-top: -19.75px;
+    margin-left: 40px;
+}
+.nextline1 h4 {
+    margin-top: -25px;
+    margin-left: 95px;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline1 .new {
+    height: 50px;
+    margin-top: -60px;
+    margin-left: 155px;
+    background-color: white;
+    border-radius: 12px;
+    border: solid 1px #909090;
+    color: #909090;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    width: 270px;
+    position: relative;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline1 .new1 {
+    height: 50px;
+    margin-top: -49px;
+    margin-left: 465px;
+    background-color: white;
+    border-radius: 12px;
+    border: solid 1px #909090;
+    color: black;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    width: 260px;
+    position: relative;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline1 .new2 {
+    height: 50px;
+    margin-top: -49px;
+    margin-left: 765px;
+    background-color: white;
+    border-radius: 12px;
+    border: solid 1px #909090;
+    color: black;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    width: 260px;
+    position: relative;
+    font-family: 'Ramabhadra', sans-serif;
+}
+.nextline1 .backhr {
+    margin-left: 1057px;
+    margin-top: -45px;
+    max-height: 38px;
+    width: .2px;
+    height: 38px;
+}
+.nextline1 a {
+    margin-left: 1050px;
+    margin-top: -31px;
+}
+.recent {
+    margin-left: 125px;
+}
+.recent ul li {
+    padding: 10px;
+    display: inline;
+    border: 1px solid #e5ecfc;
+    max-width: 80px;
+    max-width: 25px;
+    background-color: #e5ecfc;
+    border-radius: 12px;
+}
+span {
+    color: red;
+}
+.flexcolumn {
+    display: flex;
+    flex-direction: column;
+}
+.foot {
+    margin-left: 35px;
+    margin-top: 30px;
+    width: 20px;
+}
+.footer {
+    display: flex;
+    font-family: 'Ramabhadra', sans-serif;
+    float: left;
+}
+.footer h4 {
+    padding: 6px;
+    width: 230px;
+    border: 1px solid #e5ecfc;
+    background-color: #e5ecfc;
+    border-radius: 12px;
+}
